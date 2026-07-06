@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "20260706.f5ca192b\\x64\\Debug\\20260706_Function1_ueda.obj",
+            "outputs": [
+                "20260706.f5ca192b\\x64\\Debug\\20260706_Function1_ueda.ixx.ifc.dt.module.json",
+                "20260706.f5ca192b\\x64\\Debug\\20260706_Function1_ueda.ixx.ifc.dt.d.json",
+                "20260706.f5ca192b\\x64\\Debug\\_20260706_Function1_ueda.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "_20260706_Function1_ueda",
+                    "source-path": "c:\\users\\student\\desktop\\mondayrepository\\20260706_pracmain1_ueda\\20260706_function1_ueda.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
