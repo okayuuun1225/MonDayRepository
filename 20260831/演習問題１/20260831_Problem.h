@@ -10,11 +10,12 @@ private:
 
 public:
 
+    //‰Šúİ’è
     BankAccount(const string& holder, double initialBalance)
         : accountHolder(holder), balance(initialBalance) {
     }
 
-
+    //Œ»İ‚Ìc‚‚ğæ“¾‚·‚éŠÖ”
     double getBalance() const {
         return balance;
     }
